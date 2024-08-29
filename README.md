@@ -1,8 +1,3 @@
-Here's the `README.md` file updated to include Docker instructions:
-
-```markdown
-# Django Project with PostgreSQL
-
 ## Overview
 
 This project is a Django application with PostgreSQL as the database backend. It includes a dynamic employee search API with configurable columns and filters based on the organization.
