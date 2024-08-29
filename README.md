@@ -109,14 +109,4 @@ Ensure you have the following installed:
   ```bash
   python manage.py test
   ```
-
-## Contributing
-
-If you would like to contribute to this project, please fork the repository and create a pull request with your changes. Ensure that your code follows the project's coding standards and includes relevant tests.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
 This version includes instructions for setting up and running the project using Docker, as well as the traditional method without Docker.
